@@ -1,0 +1,6 @@
+{
+  "token": "ODY3MTM4NjA2OTMwMDY3NTE2.YPcvwg.FJDi41p-3ikxxUm7YcQ1mVMKj0c",
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://Satuke:satuke@cluster0.khmea.mongodb.net/Maesta?retryWrites=true&w=majority", 
+  "owners": "288255465681453058"
+}
